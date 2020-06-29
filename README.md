@@ -1,7 +1,7 @@
 # Proper Network Interpretability Helps Adversarial Robustness in Classification
 
 ## Overview
-This repository contains the code for [Proper Network Interpretability Helps Adversarial Robustness in Classification](). In this work, we demonstrate that interpretability sneaking attacks (ISA) cannot reduce interptetation discrepancy below a certain level when using an appropriate discrepancy metric. We leverage this to design a interpretabilit-aware robust training method based directly on robust interpretation. Empirically, we demonstrate that interpretability-aware robust training can achieve robust classifications when facing large-perturbation attacks, as well as other benefits including robust interpretations and perceptually-aligned internal features.
+This repository contains the code for [Proper Network Interpretability Helps Adversarial Robustness in Classification](https://arxiv.org/abs/2006.14748). In this work, we demonstrate that interpretability sneaking attacks (ISA) cannot reduce interptetation discrepancy below a certain level when using an appropriate discrepancy metric. We leverage this to design a interpretabilit-aware robust training method based directly on robust interpretation. Empirically, we demonstrate that interpretability-aware robust training can achieve robust classifications when facing large-perturbation attacks, as well as other benefits including robust interpretations and perceptually-aligned internal features.
 
 ![Summary](Interpretability_Summary.PNG)
 
